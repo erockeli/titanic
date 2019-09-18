@@ -10,7 +10,7 @@ const Footer = props =>{
            }
 
            <div className='contact'>
-               <p>Titantic@gmail.com</p>
+               <p>Titanic@gmail.com</p>
                <p>(123)456-7890</p>
                <p></p>
                <div className="social">
