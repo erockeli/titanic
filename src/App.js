@@ -1,10 +1,10 @@
 import React from 'react';
+import CodingChallenges from './components/CodingChallenge'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-     <p>Hello this is my component for the coding challenge</p>
     </div>
   );
 }
