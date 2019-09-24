@@ -1,6 +1,6 @@
 ## Operation Titan
 
-#### Team Project
+### Web23 Full Stack Software Engineer Team (Zac) Project
 
 ### Team
 
